@@ -3,6 +3,9 @@
 Clone the Repo
 ### `git clone https://github.com/asharma13524/sleep-data-app.git`
 
+Go to root of repo
+### `cd sleep-data-app`
+
 Install necessary dependencies
 ### `npm install && cd client && npm install && cd ..`
 
