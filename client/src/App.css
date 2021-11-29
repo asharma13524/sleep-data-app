@@ -1,0 +1,64 @@
+html, body, #app, #app>div {
+  height: 100%;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+img {
+  display:block;
+  margin:auto;
+  padding-top: 3rem;
+}
+
+div .Dropdown-control {
+  background-color: #cfdffa;
+  font-family: Cursive;
+  font-size: 1.3rem;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+  width: 90%;
+}
+
+div .Dropdown-option {
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+.allBars, .allLines {
+  columns: 3 auto;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.graph-svg-tip.comparison {
+    font-size: 8px;
+}
+
+.sleepscore {
+  color: greenyellow;
+  font-family: Geneva;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-left: 1.2rem;
+}
+
+.date {
+  white-space:nowrap;
+  color: rgb(255, 0, 242);
+  font-family: Impact;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+text.title {
+  display: block;
+  fill: #006eff;
+  font-size: 1em;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.allCharts {
+  margin-bottom: 10rem;
+}
+
